@@ -1,0 +1,6 @@
+#Yhannis Prudencio
+
+Expectations for CMSC 100
+
+- Learn how to make web applications
+- Grasp the in and outs of backend and frontend development
